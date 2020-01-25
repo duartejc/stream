@@ -1,4 +1,4 @@
-module github.com/project-flogo/stream/activity/aggregate
+module github.com/duartejc/stream/activity/aggregate
 
 require (
 	github.com/project-flogo/core v0.10.1
